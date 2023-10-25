@@ -1,0 +1,44 @@
+[33mcommit f6144fd968740a3f06e9acfcb5eabd6e8ace1572[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AtulPatankar5 <atulsantoshpatankar5@gmail.com>
+Date:   Wed Oct 25 13:37:21 2023 +0530
+
+    Added by main
+
+[33mcommit d26f6fee7f5f2255d499bf81585f07632e6889fa[m
+Merge: e2eb48f d29f69e
+Author: Atul Patankar <109102940+AtulPatankar5@users.noreply.github.com>
+Date:   Wed Oct 25 13:29:52 2023 +0530
+
+    Merge pull request #1 from AtulPatankar5/developer
+    
+    modified index.html
+
+[33mcommit d29f69e9c70207709455b471a6f11f96698211fa[m[33m ([m[1;31morigin/developer[m[33m)[m
+Author: AtulPatankar5 <atulsantoshpatankar5@gmail.com>
+Date:   Wed Oct 25 13:22:22 2023 +0530
+
+    modified index.html
+
+[33mcommit e2eb48fa2307c46ae6867079b5015740a479f35e[m[33m ([m[1;32mTester[m[33m)[m
+Author: AtulPatankar5 <atulsantoshpatankar5@gmail.com>
+Date:   Wed Oct 25 12:50:56 2023 +0530
+
+    FIle added
+
+[33mcommit 4dd79da6145937cef11d94b3d15b82eae0b9df98[m
+Author: AtulPatankar5 <atulsantoshpatankar5@gmail.com>
+Date:   Wed Oct 25 12:46:47 2023 +0530
+
+    File Modified
+
+[33mcommit 0d185d161d9fa1ac20a08c103a1454597d102e2d[m
+Author: Atul Patankar <109102940+AtulPatankar5@users.noreply.github.com>
+Date:   Wed Oct 25 12:43:35 2023 +0530
+
+    Update README.md
+
+[33mcommit ae76d0ade792173e317091ed776aa7100be4e622[m
+Author: Atul Patankar <109102940+AtulPatankar5@users.noreply.github.com>
+Date:   Wed Oct 25 12:41:59 2023 +0530
+
+    Initial commit
